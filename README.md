@@ -1,2 +1,2 @@
-# RC-Grade-6-Assistant
+# rc-grade-6-assistant
 Bot using heraku 24/7
